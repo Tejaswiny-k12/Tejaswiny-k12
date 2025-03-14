@@ -5,4 +5,4 @@
 ✈️Currently aiming to expand my knowledge and skills consistently in my field 
 ✏️My goal is to develop user-friendly and real-world problem solving projects while considering security challenges 
 
-[Teju's github stats]
+[![Tejaswiny github stats](https://github-readme-stats.vercel.app/api?username=tejaswiny-k12&show_icons=true&theme=radical)
