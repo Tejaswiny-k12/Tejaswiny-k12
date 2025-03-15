@@ -7,10 +7,6 @@
 
 [![Tejaswiny github stats](https://github-readme-stats.vercel.app/api?username=tejaswiny-k12&show_icons=true&theme=radical)
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m loo🎓I am Engineering student specializing in Cyber security<br>✨Interested in cloud Architecture and web-development ✈️Currently aiming to expand my knowledge and skills consistently in my field ✏️My goal is to develop user-friendly and real-world problem solving projects while considering security challenges for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tejaswiny) 
 
