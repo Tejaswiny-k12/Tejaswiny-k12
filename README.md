@@ -2,7 +2,7 @@
 
 🎓 Engineering Student | Cybersecurity Enthusiast
 
-✨ Passionate about Cloud Architecture & Web Development
+✨ Passionate about Cloud Architecture & Ethical hacking
 
 ✈️ Committed to continuously expanding my knowledge and technical skills in cybersecurity
 
