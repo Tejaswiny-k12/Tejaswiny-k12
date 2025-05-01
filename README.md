@@ -2,7 +2,7 @@
 
 🎓 Engineering Student | Cybersecurity Enthusiast
 
-✨ Passionate about Cloud Architecture & Ethical hacking
+✨ Passionate about penetration testing & Ethical hacking
 
 ✈️ Committed to continuously expanding my knowledge and technical skills in cybersecurity
 
