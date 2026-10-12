@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswiny-k-06bba5290/)
 ![Location](https://img.shields.io/badge/Chennai-India-00ff9c?style=for-the-badge&logo=googlemaps&logoColor=black)
-![Status](https://img.shields.io/badge/Graduating-2026-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9c)
+![Status](https://img.shields.io/badge/Graduating-2027-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9c)
 
 </div>
 
